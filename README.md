@@ -1,2 +1,3 @@
-# Treasure_island_simple
-Simple Treasure Island Game python
+# Simple games using python
+
+Created simple python games. Feel free to use.
