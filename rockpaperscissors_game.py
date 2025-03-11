@@ -34,7 +34,7 @@ user = int(input("choose 0 for rock, 1 for paper, 2 for scissors "))
 user_choice = game[user]
 print(f"computer choose {computer_choice}")
 print(f"user choose {user_choice}")
-print(type(user_choice))
+
 
 if user_choice == rock and computer_choice == scissors:
     print("you won!")
